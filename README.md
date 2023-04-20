@@ -2,32 +2,6 @@
 
 This is a simple voting system built with WebSockets.
 
-## Folder Structure
-
-websocket-2/
-├── server/
-│ ├── index.js
-│ ├── models/
-│ │ ├── candidate.js
-│ │ └── vote.js
-│ ├── routes/
-│ │ ├── candidates.js
-│ │ └── votes.js
-│ ├── utils/
-│ │ ├── database.js
-│ │ └── websocket.js
-│ ├── package.json
-│ └── README.md
-└── client/
-├── public/
-│ ├── index.html
-│ ├── js/
-│ │ └── app.js
-│ └── css/
-│ └── styles.css
-├── package.json
-└── README.md
-
 
 ## Installation
 
